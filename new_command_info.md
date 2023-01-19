@@ -22,3 +22,10 @@
 > — Yeahhh, that's it! And take the [3D-model link](https://clck.ru/33JsAL) too.
 > 
 > — Oh Gosh, you are abnormal.
+
+
+___
+
+# New AMAZING git commands!
+
+> __git add .__ — добавить __*все*__ файлы из репозитория к отслеживанию
