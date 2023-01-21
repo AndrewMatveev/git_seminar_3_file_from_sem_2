@@ -75,3 +75,6 @@ ___
 > 17. __git clone <url-адрес репозитория>__ – клонирование внешнего репозитория на  локальный ПК
 > 18. __git pull__ – получение изменений и слияние с локальной версией
 > 19. __git push__ – отправляет локальную версию репозитория на внешний
+> 20. **git remote rm origin** - удалить
+> 21. **git remote add origin https://github.com/microsindotnet/gitnew** - добавить
+> 22. **git remote set-url origin https://github.com/microsindotnet/gitnew** - заменить
